@@ -10,7 +10,7 @@ The dataset contains **34639 Chinese reviews** and **13385 English reviews** on 
 
 ## Model
 
-- We developed **Hierarchical Attention Network(HAN)** for sentiment classification on reviews which vary in size. We firstly converted the words into large-corpus-based word embeddings. Then we divided the reviews into sentences based on punctuations. We used a **bi-directional GRU** layer, together with a **CNN-based attention** mechanism to generate **sentence representation**. Finally we fed the sentence representation to another layer of bi-GRU to generate **document representation**. 
+- We proposed **Hierarchical Attention Network(HAN)** for sentiment classification on reviews which vary in size. We firstly converted the words into large-corpus-based word embeddings. Then we divided the reviews into sentences based on punctuations. We used a **bi-directional GRU** layer, together with a **CNN-based attention** mechanism to generate **sentence representation**. Finally we fed the sentence representation to another layer of bi-GRU to generate **document representation**. 
 
 - The architecture of HAN is shown as follows:
 
