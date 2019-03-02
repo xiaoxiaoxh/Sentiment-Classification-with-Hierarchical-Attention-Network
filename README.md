@@ -66,7 +66,7 @@ The dataset contains **34639 Chinese reviews** and **13385 English reviews** on 
 
 - Chinese: 90.38%
 - English: 86.25%
-- Note that you may try your own word embedding or train the model with a new language
+- Note that you may try your own word embedding or train the model with a new language.
 
 ## Contributors
 
