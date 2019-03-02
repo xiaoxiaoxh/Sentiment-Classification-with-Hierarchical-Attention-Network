@@ -68,6 +68,11 @@ The dataset contains **34639 Chinese reviews** and **13385 English reviews** on 
 - English: 86.25%
 - Note that you may try your own word embedding or train the model with a new language.
 
+## Examples
+
+- **Positive**: *"This toothbrush and its replacement heads are awesome!!  your teeth feel great after every brush!!  highly recommended!"*
+- **Negative**: *"I heard a lot about this product so I tried it. About a hour after giving it to my dog he started licking his feet until they were really wet.  He didn't like it in his food and wouldn't try it again later."*
+
 ## Contributors
 
 This repo is maintained by [Han Xue](https://github.com/xiaoxiaoxh), [Kaiwen Zha](https://github.com/KaiwenZha) and [Qibing Ren](https://github.com/renqibing).
